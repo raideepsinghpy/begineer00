@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @begineer00
+- 👋 Hi, I’m @raideepsingh
 - 👀 I’m interested in obviously coding 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on nothing much right now but sure soon
